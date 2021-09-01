@@ -9,7 +9,7 @@ $ brew  install scala
 
 ## Running 
  
-1. Go to folder "bin" and execute:
+1. Go to folder `bin and execute:
 
 - For Linux/MacOs: 
 ```sh
